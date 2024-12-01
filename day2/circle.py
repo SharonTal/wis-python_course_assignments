@@ -5,3 +5,7 @@ def circle_calculate(radius):
     circumference = 2 * math.pi * radius
     print(f"Area of the circle: {area}")
     print(f"Circumference of the circle: {circumference}")
+
+
+
+circle_calculate(9)
