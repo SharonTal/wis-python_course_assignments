@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary v1 20041029//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20041029/esummary-v1.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>17745</Id>
+	<Item Name="Organism_Name" Type="String">Vanilla planifolia</Item>
+	<Item Name="Organism_Kingdom" Type="String">Eukaryota</Item>
+	<Item Name="DefLine" Type="String">Vanilla planifolia overview</Item>
+	<Item Name="ProjectID" Type="String">203348</Item>
+	<Item Name="Number_of_Chromosomes" Type="String">14</Item>
+	<Item Name="Number_of_Plasmids" Type="String">0</Item>
+	<Item Name="Number_of_Organelles" Type="String">0</Item>
+	<Item Name="Assembly_Name" Type="String">ASM2384627v1</Item>
+	<Item Name="Assembly_Accession" Type="String">GCA_023846275.1</Item>
+	<Item Name="AssemblyID" Type="String">13406631</Item>
+	<Item Name="Create_Date" Type="Date">2019/03/11 00:00</Item>
+	<Item Name="Options" Type="String"></Item>
+</DocSum>
+
+</eSummaryResult>
