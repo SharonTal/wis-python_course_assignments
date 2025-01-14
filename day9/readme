@@ -1,0 +1,22 @@
+
+This program analyzes sequences from Fasta or GeneBank files. It supports two analyses:
+1. Finding the longest duplicated subsequence.
+2. Finding the most common k-mer (substring of specified length).
+
+
+
+## Usage
+
+Run the program with one or both analysis options:
+
+
+python day9.py FILE --duplicate
+python day9.py FILE --kmer 3
+python day9.py FILE --duplicate --kmer 5
+
+
+### Options:
+- `FILE`: Path to the Fasta or GeneBank file.
+- `--duplicate`: Find the longest duplicated subsequence.
+- `--kmer`: Find the most common k-mer of the specified length.
+
