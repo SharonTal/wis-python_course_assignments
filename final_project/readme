@@ -44,18 +44,6 @@ The aim of this project is to create a Python-based application that automates t
 
 ---
 
-## How to Run Tests
-
-1. Use mock data or a test Telegram bot token to validate functionality without sending actual notifications.
-
-2. Test proposal-fetching functionality by running the following command:
-   ```bash
-   python <script_name>.py
-   ```
-
-3. Check logs to confirm that proposals are fetched and notifications are sent as expected.
-
----
 
 ## Workflow
 
